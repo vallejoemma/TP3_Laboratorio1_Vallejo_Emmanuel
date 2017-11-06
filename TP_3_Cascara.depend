@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1463876709 source:c:\users\gustavo\desktop\bug-free-telegram-master\tp_3_cascara\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1463828302 c:\users\gustavo\desktop\bug-free-telegram-master\tp_3_cascara\input.h
+
+1463867750 source:c:\users\gustavo\desktop\bug-free-telegram-master\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1463871867 c:\users\gustavo\desktop\bug-free-telegram-master\tp_3_cascara\funciones.h
+	"input.h"
+
+1463896100 source:c:\users\gustavo\desktop\bug-free-telegram-master\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1463957906 source:c:\users\gustavo\desktop\nueva carpeta\c\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1463958317 c:\users\gustavo\desktop\nueva carpeta\c\tp_3\funciones.h
+	"input.h"
+
+1463828302 c:\users\gustavo\desktop\nueva carpeta\c\tp_3\input.h
+
+1463929650 source:c:\users\gustavo\desktop\nueva carpeta\c\tp_3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1463957877 source:c:\users\gustavo\desktop\nueva carpeta\c\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464179808 source:e:\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1463981758 e:\tp_3\funciones.h
+	"input.h"
+
+1463981758 e:\tp_3\input.h
+
+1464035884 source:e:\tp_3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1463981758 source:e:\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1466000570 source:c:\users\juliemma\desktop\tp.laboratorio\tp_laboratorio_1-master\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1466000570 c:\users\juliemma\desktop\tp.laboratorio\tp_laboratorio_1-master\tp_3\funciones.h
+	"input.h"
+
+1466000570 c:\users\juliemma\desktop\tp.laboratorio\tp_laboratorio_1-master\tp_3\input.h
+
+1466000570 source:c:\users\juliemma\desktop\tp.laboratorio\tp_laboratorio_1-master\tp_3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1466000570 source:c:\users\juliemma\desktop\tp.laboratorio\tp_laboratorio_1-master\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
